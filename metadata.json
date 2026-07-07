@@ -1,0 +1,6 @@
+{
+  "name": "CENTA GARAGENVERWALTUNG",
+  "description": "Umfassende Verwaltungsapplikation für Garagen, Stellplätze, Mieter, Verträge, Zahlungen und Wartungsintervalle mit automatischer Mietabrechnung, Mahnwesen und externer Buchhaltungs-Schnittstelle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
